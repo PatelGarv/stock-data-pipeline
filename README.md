@@ -27,17 +27,21 @@ Alpha Vantage API → AWS S3 (Bronze) → Databricks PySpark (Silver) → AWS S3
 ## Project Structure
 stock-data-pipeline/
 
+stock-data-pipeline/
+
 ├── notebooks/
+
 │   └── stock_pipeline.ipynb    # Main PySpark ETL notebook
 
 ├── docs/
+
 │   └── architecture.md         # Pipeline architecture notes
 
 ├── images/
+
 │   └── workflow_screenshot.png # Databricks job screenshot
 
 └── README.md
-
 
 
 ## How to Run
