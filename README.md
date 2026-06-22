@@ -43,6 +43,9 @@ stock-data-pipeline/
 
 └── README.md
 
+## Pipeline Screenshots 
+![Databricks Workflow)(images/Deskboard_Screenshot 2026-06-22.png)
+![S3 Bucket reponce page)(images/S3 bucket savings Screenshot 2026-06-22 .png)
 
 ## How to Run
 1. Set up AWS S3 bucket and note your access key + secret key
