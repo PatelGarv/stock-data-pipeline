@@ -1,4 +1,4 @@
-# stock-data-pipeline
+# Stock-Data-Pipeline
 End-to-end stock market data pipeline using Alpha Vantage, AWS S3, Databricks, Pyspark and SparkSQL
 
 
