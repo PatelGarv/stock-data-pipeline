@@ -45,7 +45,7 @@ stock-data-pipeline/
 
 ## Pipeline Screenshots
 
-![Databricks Workflow](images/Deskboard_Screenshot_2026_06_22.png)
+![Databricks Workflow](images/Deskboard_Screenshot_2026_06_26.png)
 
 ![S3 Bucket](images/S3_bucket_savings_Screenshot_2026_06_22.png)
 
